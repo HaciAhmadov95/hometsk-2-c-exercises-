@@ -1,0 +1,28 @@
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\bin\Debug\net6.0\12-09-2023-hometask.exe
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\bin\Debug\net6.0\12-09-2023-hometask.deps.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\bin\Debug\net6.0\12-09-2023-hometask.runtimeconfig.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\bin\Debug\net6.0\12-09-2023-hometask.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\bin\Debug\net6.0\12-09-2023-hometask.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.AssemblyInfoInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.AssemblyInfo.cs
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.csproj.CoreCompileInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\refint\12-09-2023-hometask.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.genruntimeconfig.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\c# hometask-1\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\ref\12-09-2023-hometask.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\bin\Debug\net6.0\12-09-2023-hometask.exe
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\bin\Debug\net6.0\12-09-2023-hometask.deps.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\bin\Debug\net6.0\12-09-2023-hometask.runtimeconfig.json
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\bin\Debug\net6.0\12-09-2023-hometask.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\bin\Debug\net6.0\12-09-2023-hometask.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.AssemblyInfoInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.AssemblyInfo.cs
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.csproj.CoreCompileInputs.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\refint\12-09-2023-hometask.dll
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.pdb
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\12-09-2023-hometask.genruntimeconfig.cache
+C:\Users\ACER PREDATOR\OneDrive\Desktop\12-09-2023-hometask\12-09-2023-hometask\obj\Debug\net6.0\ref\12-09-2023-hometask.dll
